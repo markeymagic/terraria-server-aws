@@ -1,6 +1,6 @@
 {
   "Settings": {
-    "ServerPassword": "",
+    "ServerPassword": "durry",
     "ServerPort": 7777,
     "MaxSlots": 8,
     "ReservedSlots": 20,
